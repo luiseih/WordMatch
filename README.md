@@ -29,6 +29,6 @@ I am also including a text file full of... that Lorem Ipsum thing, so that you c
 	
 For your amusement, this is the report I filed for this program (the Java one), so you can have an idea of what was I thinking at the moment: [Report.txt](Report.md)
 	
-In short, it fulfills the assignment requirements but I think there are many things that can be done to make it a better program so, if it is of any use to you, go ahead and play with it...
+In short, it fulfills the assignment requirements but I think there are many things that can be done to make it a better program so, if it is of any use to you, go ahead and do a pull request or just download the zip file and play with it...
 
 Enjoy!
