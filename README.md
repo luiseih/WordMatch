@@ -4,20 +4,23 @@ Helper program to solve word puzzles (YMMV, depending on the lexicon file you us
 This is the actual assignment I was given: [Assignment](Assignment.md)
 	
 It was supposed to be written in Java, so I divided it in 2 parts:
-	
-	The main program: [WordMatch.java](WordMatch.java)
-	
-	And a helper class: [WordMatchLexicon.java](WordMatchLexicon.java)
-	
-	Just download both of them, compile them with
+
+The main program: [WordMatch.java](WordMatch.java)
+
+And a helper class: [WordMatchLexicon.java](WordMatchLexicon.java)
+
+Just download both of them, compile them with
+
 	$ javac *.java
 	
-	and run it with
+and run it with
+
 	$ java WordMatch
 	
 And, since it seems I enjoy this monkey coding thing, I decided to refactorize it to a python program. Not graded. Just because I'm nice like that... [WordMatch.py](WordMatch.py)
 	
-	To run it, just do
+To run it, just do
+
 	$ python WordMatch.py
 	
 I would even convert it to Python 3 but that is too trivial at this stage so, no.
