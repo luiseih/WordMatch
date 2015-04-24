@@ -2,7 +2,7 @@
 WordMatch is a helper program to solve word puzzles
 
 This is the actual assignment I was given:
-	[Assignment]
+	[Assignment](Assignment)
 	
 It was supposed to be written in Java, so I divided it in 2 parts:
 	
