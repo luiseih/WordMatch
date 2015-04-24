@@ -1,5 +1,5 @@
 # WordMatch
-Helper program to solve word puzzles (YMMV, depending on the lexicon file you use.)
+_Helper program to solve word puzzles (YMMV, depending on the lexicon file you use.)_
 
 This is the actual assignment I was given: [Assignment](Assignment.md)
 	
